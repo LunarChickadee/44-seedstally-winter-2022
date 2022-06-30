@@ -1,6 +1,9 @@
 local taxstates, noship, taxitems, vgroupvermonttax, vMDMAtaxable, vArraySize, vPosIncrement, vCheckArray
 taxstates="CT,GA,IL,IN,KS,KY,MI,MN,NC,NJ,NM,NY,OH,PA,RI,TN,VT,WA,WI,WV,WY"
 noship="FL,MA,MD,ME,VA,UT" ; IA removed 11-18-19
+vPosIncrement=1
+vCheckArray=""
+vMDMAtaxable=""
 
 //sdfasdfsad
 
